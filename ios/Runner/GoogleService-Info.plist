@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>211923996616-9bgtnod01m4i5ets85a9rr1galoon9c2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.211923996616-9bgtnod01m4i5ets85a9rr1galoon9c2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyANARtWXMnoLzkkcFIcOotjPr6-Fj1XOwc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>211923996616</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pricetrackr</string>
+	<key>PROJECT_ID</key>
+	<string>pricetrackr-5f890</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pricetrackr-5f890.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:211923996616:ios:f2b12f6637285fdb7afafd</string>
+</dict>
+</plist>
